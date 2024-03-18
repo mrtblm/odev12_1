@@ -1,5 +1,4 @@
 Docker
-https://imgyukle.com/i/yWFZk6
-
+https://hizliresim.com/geb2irw
 Sorgu
-https://imgyukle.com/i/yWFbHp
+https://hizliresim.com/4yua8iw
