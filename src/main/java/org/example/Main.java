@@ -9,8 +9,8 @@ import java.sql.SQLException;
 public class Main {
     public static void main(String[] args) {
         try {
-            Connection baglanti = DriverManager.getConnection("jdbc:mysql://sql10.freesqldatabase.com:3306/sql10690672", "sql10690672"
-                    , "m3cJaCCjtr");
+            Connection baglanti = DriverManager.getConnection("jdbc:mysql://localhost:3306/test", "root"
+                    , "Mrt123.");
 
             String sorgu = "SELECT * FROM ogrenciler";
             PreparedStatement preparedStatement = baglanti.prepareStatement(sorgu);
